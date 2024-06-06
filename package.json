@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/CV-L.Jefferson/",
+    "build": "vite build --base=/js_103_CV-L.Jefferson/",
     "preview": "vite preview"
   },
   "devDependencies": {
